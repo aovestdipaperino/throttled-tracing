@@ -1,5 +1,7 @@
 # throttled-tracing
 
+[![GitHub stars](https://img.shields.io/github/stars/aovestdipaperino/throttled-tracing?logo=github&color=brightgreen)](https://github.com/aovestdipaperino/throttled-tracing/stargazers)
+
 Periodic and throttled logging macros for the [tracing](https://crates.io/crates/tracing) ecosystem.
 
 ## Features
